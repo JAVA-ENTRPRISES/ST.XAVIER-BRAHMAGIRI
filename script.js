@@ -22,7 +22,7 @@ document.addEventListener("DOMContentLoaded", function() {
         footer.innerHTML = `
         <div class="footer-content">
             <div>
-                <h3>sainthood.school</h3>
+                <h3>stxavier.school</h3>
                 <p style="opacity: 0.8; margin-top: 15px;">Setting a new standard in modern education. We believe in the curiosity of every child.</p>
             </div>
             <div>
