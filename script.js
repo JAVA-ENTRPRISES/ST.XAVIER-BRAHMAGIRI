@@ -4,7 +4,7 @@ document.addEventListener("DOMContentLoaded", function() {
     if (header) {
         header.innerHTML = `
         <div class="nav-container">
-            <div class="logo">sainthood<span>.school</span></div>
+            <div class="logo">St.Xavier School<span>.Brahmagiri</span></div>
             <ul class="nav-links">
                 <li><a href="index.html">Home</a></li>
                 <li><a href="about-us.html">About Us</a></li>
@@ -40,7 +40,7 @@ document.addEventListener("DOMContentLoaded", function() {
                 <p>✉️ hello@sainthood.school</p>
             </div>
         </div>
-        <div class="footer-bottom">&copy; 2026 Sainthood International School.</div>`;
+        <div class="footer-bottom">&copy; 2026 St.Xavier School.</div>`;
     }
 
     // Auto-active link highlight
