@@ -35,9 +35,9 @@ document.addEventListener("DOMContentLoaded", function() {
             </div>
             <div>
                 <h4>Contact Us</h4>
-                <p style="margin-top: 15px;">📍 Plot 12, Education Hub, Bhubaneswar</p>
+                <p style="margin-top: 15px;">📍 Plot 12, Education Hub, Puri</p>
                 <p>📞 +91 911 222 3333</p>
-                <p>✉️ hello@sainthood.school</p>
+                <p>✉️ hello@stxavier.school</p>
             </div>
         </div>
         <div class="footer-bottom">&copy; 2026 St.Xavier School.</div>`;
