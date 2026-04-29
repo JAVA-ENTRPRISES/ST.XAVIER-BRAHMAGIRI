@@ -1,7 +1,7 @@
 document.addEventListener("DOMContentLoaded", function() {
 
     // Header Injection
-    const header = document.getElementById("maim-header");
+    const header = document.getElementById("main-header");
     if (header) {
         header.innerHTML = `
                 <nav class="navbar">
