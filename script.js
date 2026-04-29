@@ -1,7 +1,7 @@
 document.addEventListener("DOMContentLoaded", function() {
 
     // Header Injection
-    const header = document.getElementById("header-placeholder");
+    const header = document.getElementById("maim-header");
     if (header) {
         header.innerHTML = `
                 <nav class="navbar">
@@ -30,7 +30,7 @@ document.addEventListener("DOMContentLoaded", function() {
     }
 
     // Footer Injection
-    const footer = document.getElementById("footer-placeholder");
+    const footer = document.getElementById("main-footer");
     if (footer) {
         footer.innerHTML = `
         <div class="footer-content">
