@@ -12,7 +12,7 @@ document.addEventListener("DOMContentLoaded", function() {
             <div class="logo-container">
                 <img src="image/LOGO.jpeg" alt="School Logo" class="logo-img">
                 <div class="logo-text">
-                    St.Xavier School<span>.Brahmagiri</span>
+                    ST. XAVIERS HIGH SCHOOL<span>.BRAHMAGIRI</span>
                 </div>
             </div>
 
@@ -39,7 +39,7 @@ document.addEventListener("DOMContentLoaded", function() {
             <div>
                 <div class="footer-logo">
                     <img src="image/LOGO.jpeg" alt="School Logo" class="footer-logo-img">
-                    <h3>St Xavier School</h3>
+                    <h3> ST. XAVIERS HIGH SCHOOL</h3>
                 </div>
 
                 <p style="opacity: 0.8; margin-top: 15px;">
