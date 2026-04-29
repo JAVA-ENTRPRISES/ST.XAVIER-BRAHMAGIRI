@@ -17,10 +17,10 @@ document.addEventListener("DOMContentLoaded", function() {
             <!-- NAV LINKS -->
             <ul class="nav-links">
                 <li><a href="index.html">Home</a></li>
-                <li><a href="about-us.html">About Us</a></li>
+                <li><a href="about-us.html">AboutUs</a></li>
                 <li><a href="facility.html">Facility</a></li>
                 <li><a href="gallery.html">Gallery</a></li>
-                <li><a href="mandatory.html">Mandatory Disclosure</a></li>
+                <li><a href="mandatory.html">MandatoryDisclosure</a></li>
                 <li><a href="contact.html">Contact</a></li>
             </ul>
 
