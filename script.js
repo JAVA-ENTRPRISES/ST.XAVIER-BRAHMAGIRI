@@ -1,9 +1,11 @@
 document.addEventListener("DOMContentLoaded", function() {
 
     // Header Injection
-    const header = document.getElementById("main-header");
+    const header = document.getElementById("header-placeholder");
     if (header) {
         header.innerHTML = `
+                <nav class="navbar">
+
         <div class="nav-container">
 
             <!-- LOGO + NAME -->
@@ -28,7 +30,7 @@ document.addEventListener("DOMContentLoaded", function() {
     }
 
     // Footer Injection
-    const footer = document.getElementById("main-footer");
+    const footer = document.getElementById("footer-placeholder");
     if (footer) {
         footer.innerHTML = `
         <div class="footer-content">
